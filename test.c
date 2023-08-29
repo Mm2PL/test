@@ -45,3 +45,7 @@ void sep2(void) {}
 
 #define A a
 ##define B b
+
+#define abc 0abc
+#
+#define def 0def
