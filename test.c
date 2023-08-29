@@ -19,6 +19,8 @@ int global=0;
 #define D (789)
 
 
+void sep(void) {}
+
 #define outside 0
 #undef _
 #define noval
@@ -29,6 +31,7 @@ int global=0;
 #define D (789)
 #undef _
 
+void sep2(void) {}
 
 #define outside 0
 #define noval
