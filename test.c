@@ -42,3 +42,6 @@ void sep2(void) {}
 #define D (789)
 #endif
 #undef noval
+
+#define A a
+##define B b
